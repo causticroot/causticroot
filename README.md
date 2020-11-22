@@ -1,5 +1,7 @@
-<!-- Stalker status <!-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> </p>
+<!-- Badgers !-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> </p>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:matheus.luis.developer@gmail.com/)
+
+
 <p align="center">
 <!-- Icones !-->
 <a href="https://twitter.com/syrgoth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="syrgoth" height="30" width="30" /></a>
@@ -25,6 +27,8 @@
 <img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="ps" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=tokyonight&show_icons=true" alt="causticroot" /></p>
