@@ -2,14 +2,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> </p>
 <p align="center">
 <!-- Icones !-->
-<a href="https://twitter.com/brigidojosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brigidojosue" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kalavhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalavhan" height="30" width="30" /></a>
-<a href="https://medium.com/@josue.brigido1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@josue.brigido1" height="30" width="30" /></a>
+<a href="https://twitter.com/syrgoth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="syrgoth" height="30" width="30" /></a>
+<a href="http://www.linkedin.com/in/causticroot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="causticroot" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@causticroot" height="30" width="30" /></a>
 </p>
 
 <!-- Header !-->
 <h1 align="center">👋 Olá, eu sou Matheus</h1>
-<img src="https://1.bp.blogspot.com/-dtlGGcPF3-I/U4c7uckursI/AAAAAAAAIEc/maRhHjXFzmM/s1600/Link+6.gif" alt="link" align="center" width="200px" height="200px" padding="20px">
+<p align="center">
+    <img src="https://1.bp.blogspot.com/-dtlGGcPF3-I/U4c7uckursI/AAAAAAAAIEc/maRhHjXFzmM/s1600/Link+6.gif" alt="link" width="200px" height="200px" padding="20px">
+    <img src="https://64.media.tumblr.com/e6cb4fe1d6870e8353e40c74f889d4bf/tumblr_n81haa2YSG1r5sdyoo1_500.gif" alt="nds" width="200px" height="200px" padding="20px">
+    <img src="https://i.pinimg.com/originals/b1/aa/44/b1aa44b97325b524d338b371bde7288e.gif" alt="donkeykong" width="200px" height="200px" padding="20px">
+    <img src="https://media0.giphy.com/media/GltC4HZLjJLvq/giphy.gif" alt="pokemon" width="200px" height="200px" padding="20px">
+</p>
 <h3 align="center">Sou estudante de Desenvolvimento de sistemas, amante do desenvolvimento de jogos && futuro desenvolvedor back-end</h3>
 
 <!-- Tecnologias !-->
