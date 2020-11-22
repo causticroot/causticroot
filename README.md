@@ -9,7 +9,8 @@
 
 <!-- Header !-->
 <h1 align="center">👋 Olá, eu sou Matheus</h1>
-<h3 align="center">Sou estudande de Desenvolvimento de sistemas, amante do desenvolvimento de jogos && futuro desenvolvedor back-end</h3>
+<img src="https://1.bp.blogspot.com/-dtlGGcPF3-I/U4c7uckursI/AAAAAAAAIEc/maRhHjXFzmM/s1600/Link+6.gif" alt="link" align="center" width="200px" height="200px" padding="20px">
+<h3 align="center">Sou estudante de Desenvolvimento de sistemas, amante do desenvolvimento de jogos && futuro desenvolvedor back-end</h3>
 
 <!-- Tecnologias !-->
 <p align="center">
