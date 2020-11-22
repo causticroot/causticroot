@@ -1,7 +1,8 @@
 <!-- Badgers !-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:matheus.luis.developer@gmail.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> 
 </p>
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:matheus.luis.developer@gmail.com/)
 
 <p align="center">
 <!-- Icones !-->
