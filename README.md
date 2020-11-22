@@ -1,33 +1,25 @@
-<!-- Actual text -->
-## Olá, eu sou Matheus, estudante de desenvolvimento de Sistemas. 👋
-
-#### [![LinkedIn][1.1]][1] [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:matheus.luis.developer@gmail.com)
-
-
-
-<!-- icones -->
-[1.1]: https://img.icons8.com/color/30/000000/linkedin.png (Link do linkedin)
-
-<!-- contas-->
-[1]: https://www.linkedin.com/in/causticroot/
-
-
+<!-- Stalker status <!-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> </p>
 <p align="center">
-    <img src="https://i.pinimg.com/originals/91/33/39/9133392fe36394de5d1b995e05b96062.gif" padding="50px">
+<!-- Icones !-->
+<a href="https://twitter.com/brigidojosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brigidojosue" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kalavhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalavhan" height="30" width="30" /></a>
+<a href="https://medium.com/@josue.brigido1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@josue.brigido1" height="30" width="30" /></a>
 </p>
 
-Encantado pelo desenvolvimento de jogos e amante de desafios lógicos !
+<!-- Header !-->
+<h1 align="center">👋 Olá, eu sou Matheus</h1>
+<h3 align="center">Sou estudande de Desenvolvimento de sistemas, amante do desenvolvimento de jogos && futuro desenvolvedor back-end</h3>
 
-#### Minhas contribuições
-<a href="https://github.com/causticroot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&count_private=true&show_icons=true&theme=onedark" />
-</a>
-</br>
-</br>
-</br>
+<!-- Tecnologias !-->
+<p align="center">
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="ps" width="40" height="40"/>
 
-#### Linguagens mais usadas
-<a href="https://github.com/causticroot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&theme=onedark" />
-</a>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=tokyonight&show_icons=true" alt="causticroot" /></p>
 
