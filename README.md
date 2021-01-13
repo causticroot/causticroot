@@ -8,6 +8,7 @@
 <!-- Icones !-->
 <a href="https://twitter.com/syrgoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="syrgoth" height="30" width="30" /></a>
 <a href="http://www.linkedin.com/in/causticroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="causticroot" height="30" width="30" /></a>
+<a href="https://soundcloud.com/macaulayraro" target="blank"><img align="center" src="hhttps://cdn.worldvectorlogo.com/logos/soundcloud-2.svg" alt="causticroot" height="30" width="30" /></a>
 </p>
 
 <!-- Header !-->
