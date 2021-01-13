@@ -14,9 +14,9 @@
 <!-- Header !-->
 <h1 align="center">👋 Olá, eu sou Matheus</h1>
 <p align="center">
-    <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" alt="clefairy" width="200px" height="200px" padding="20px">
-    <img src="https://66.media.tumblr.com/06ad37efe01d51ffc2f58363fe989653/tumblr_my74o3mTMV1rfjowdo1_500.gif" alt="mariokart" width="200px" height="200px" padding="20px">
-    <img src="https://vignette.wikia.nocookie.net/sonic-the-hedgehog/images/3/38/Sonic.gif/revision/latest/top-crop/width/220/height/220?cb=20121229005050&path-prefix=pt-br" alt="sonic" width="200px" height="200px" padding="20px">
+    <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" alt="clefairy" width="100px" height="100px" padding="15px">
+    <img src="https://66.media.tumblr.com/06ad37efe01d51ffc2f58363fe989653/tumblr_my74o3mTMV1rfjowdo1_500.gif" alt="mariokart" width="100px" height="100px" padding="15px">
+    <img src="https://vignette.wikia.nocookie.net/sonic-the-hedgehog/images/3/38/Sonic.gif/revision/latest/top-crop/width/220/height/220?cb=20121229005050&path-prefix=pt-br" alt="sonic" width="100px" height="100px" padding="15px">
     
 </p>
 <h3 align="center">Estudante de Desenvolvimento de sistemas, amante do back-end e do desenvolvimento de jogos.</h3>
