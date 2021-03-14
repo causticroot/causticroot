@@ -88,6 +88,6 @@ Quem sou eu ?
 </p>
 <br>
 <p align="center">
-    <img src="https://media.giphy.com/media/4l1dsrbGFyw8g/source.gif" width="100%">
+    <img src="https://media.giphy.com/media/4l1dsrbGFyw8g/source.gif" width="100%" height="2%">
 </p>
 
