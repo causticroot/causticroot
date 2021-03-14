@@ -86,8 +86,5 @@ Quem sou eu ?
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="100%"/>
 </p>
-<br>
-<p align="center">
-    <img src="https://media.giphy.com/media/4l1dsrbGFyw8g/source.gif" width="100%" height="150px">
-</p>
+
 
