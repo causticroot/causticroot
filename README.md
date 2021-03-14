@@ -40,10 +40,10 @@ Quem sou eu ?
         <th style="text-align: center; background-color: #ffffffff; color: black" colspan="4">Meu progresso atual</th> 
     </tr>
     <tr style="border: 5px dashed #abd200; font-size: 20px;">
-        <th style="text-align: center; border: 5px dashed #abd200;">📚 Estudando 📚</th>
-        <th style="text-align: center; border: 5px dashed #abd200;">🥅 Interesses 🥅</th>
-        <th style="text-align: center; border: 5px dashed #abd200;">🤓 Conhecimentos 🤓</th>
-        <th style="text-align: center; border: 5px dashed #abd200;">🗃️ DB'S 🗃️</th>
+        <th style="text-align: center; border: 5px dashed #abd200;">Estudando 📚</th>
+        <th style="text-align: center; border: 5px dashed #abd200;">Interesses 🥅</th>
+        <th style="text-align: center; border: 5px dashed #abd200;">Conhecimentos 🤓</th>
+        <th style="text-align: center; border: 5px dashed #abd200;">DB'S 🗃️</th>
     </tr>
     <tr style="border: 5px dashed #abd200;">
         <td style="border: 5px dashed #abd200;" class="shadowed">
