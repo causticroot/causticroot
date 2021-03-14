@@ -81,8 +81,8 @@ Quem sou eu ?
     </tr>
 </table>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="45%"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="45%" height="600px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=6&theme=merko" alt="causticroot" width="50%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="50%"/>
 </p>
 
 
