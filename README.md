@@ -72,6 +72,6 @@
 </table>
 
 <p align="center" style="margin: 25px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="25%"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="25%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="50%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="50%" />
 </p>
