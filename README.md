@@ -13,15 +13,26 @@
 </p>
 
 <!-- Header !-->
-<h1 align="center">👋 Olá, eu sou Matheus, futuro desenvolvedor ! 👋</h1>
+<h1 align="center">
+<img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
+Olá, eu sou Matheus, futuro desenvolvedor.
+<img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
+</h1>
 
 <p align="center">
+    <img src="https://64.media.tumblr.com/7b1003c806a9bbb724ea6066c2abaa54/tumblr_ml5pj2vcTR1s5h198o1_500.gif" alt="poliwhirl" width="100px" height="100px" padding="15px">
     <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" alt="clefairy" width="100px" height="100px" padding="15px">
-    <img src="https://66.media.tumblr.com/06ad37efe01d51ffc2f58363fe989653/tumblr_my74o3mTMV1rfjowdo1_500.gif" alt="mariokart" width="100px" height="100px" padding="15px">
-    <img src="https://vignette.wikia.nocookie.net/sonic-the-hedgehog/images/3/38/Sonic.gif/revision/latest/top-crop/width/220/height/220?cb=20121229005050&path-prefix=pt-br" alt="sonic" width="100px" height="100px" padding="15px"> 
+    <img src="https://i.gifer.com/WG8V.gif" alt="pikachu" width="100px" height="100px" padding="15px">
+    <img src="https://64.media.tumblr.com/b588ef01d7075388169b64be86637b07/tumblr_mhtwfdBYer1s1kaw2o1_500.gifv" alt="ditto" width="100px" height="100px" padding="15px"> 
+    <img src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="snorlax" width="100px" height="100px" padding="15px"> 
 </p>
 
-<h3 align="center" style="font-weight: bold; margin: 0 25% 0 25%">Sou um entusiasta do desenvolvimento backend e membro ativo da comunidade linux, não tenho o domínio do conhecimento mas estou sempre compartilhando o meu aprendizado, também estou sempre com problemas no meu OS, o que me torna mais ativo ainda. Gosto de ser desafiado, seja em jogos ou ações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade.</h3>
+<br><br>
+<h2 align="center" style="font-weight: bold; margin: 0 25% 0 25%">QUEM SOU EU ???</h2>
+<br>
+<p align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
+    Sou um entusiasta do desenvolvimento backend e membro ativo da comunidade linux, apaixonado por pokemon, mmorpgs, animes e magic: the gathering. Sou suavão, tenho compaixão com a natureza mas perco a paciência com menos de 4gb de  memória ram (F!). Manjaro + i3 é a coisa mais linda do mundo, uso windows por necessidade, totalmente aberto a qualquer OS. Adoro ser desafiado em jogos e também em situações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade.
+</p>
 
 <br>
 
