@@ -25,7 +25,7 @@ Olá, eu sou Matheus, futuro desenvolvedor.
     <img src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="snorlax" width="100px" height="100px" padding="15px"> 
 </p>
 
-<br><br>
+<br>
 <h2 align="center" style="font-weight: bold; margin: 0 25% 0 25%">
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
 Quem sou eu ?
@@ -35,7 +35,9 @@ Quem sou eu ?
 <p align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
     Sou um entusiasta do desenvolvimento backend e membro ativo da comunidade linux, apaixonado por pokemon, mmorpgs, animes e magic: the gathering. Sou suavão, tenho compaixão com a natureza mas perco a paciência com menos de 4gb de  memória ram (F!). Manjaro + i3 é a coisa mais linda do mundo, uso windows por necessidade, totalmente aberto a qualquer OS. Adoro ser desafiado em jogos e também em situações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade.
 </p>
-
+<p align="center">
+    <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/925/966/8d2.gif" width="100%">
+</p>
 <br>
 
 <table  style="border: 5px dashed #abd200; color: #abd200; background-color: rgb(10, 15, 11);" align="center">
