@@ -32,9 +32,9 @@ Quem sou eu ?
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
 </h2>
 <br>
-<p align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
+<h3 align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
     Sou um entusiasta do desenvolvimento backend e membro ativo da comunidade linux, apaixonado por pokemon, mmorpgs, animes e magic: the gathering. Sou suavão, tenho compaixão com a natureza mas perco a paciência com menos de 4gb de  memória ram (F!). Manjaro + i3 é a coisa mais linda do mundo, uso windows por necessidade, totalmente aberto a qualquer OS. Adoro ser desafiado em jogos e também em situações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade.
-</p>
+</h3>
 <p align="center">
     <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/925/966/8d2.gif" width="100%" height="400px">
 </p>
