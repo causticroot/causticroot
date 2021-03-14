@@ -88,6 +88,6 @@ Quem sou eu ?
 </p>
 <br>
 <p align="center">
-    <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/925/966/8d2.gif" width="100%">
+    <img src="https://thumbs.gfycat.com/GraciousWanArthropods-small.gif" width="100%">
 </p>
 
