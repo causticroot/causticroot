@@ -39,25 +39,24 @@
         <td style="border: 5px dashed #abd200;" class="shadowed">
             <p align="center">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="60" height="60"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>    
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="60" height="60"/>   
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="git" width="60" height="60"/>     
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/>     
             </p>
         </td>
         <td style="border: 5px dashed #abd200;" class="shadowed">
             <p align="center">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="60" height="60"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60"/>   
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="60" height="60"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60">
+                <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="60" height="60"/>   
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="60" height="60">
             </p>
         </td>
         <td style="border: 5px dashed #abd200;" class="shadowed">
             <p align="center">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="ps" width="60" height="60"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="60" height="60"/>
@@ -66,14 +65,13 @@
         </td>
         <td style="border: 5px dashed #abd200;" class="shadowed">
             <p align="center">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="60" height="60"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
             </p>
         </td>
     </tr>
 </table>
 
 <p align="center" style="margin: 25px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="500px" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="500px" height="200px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="25%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="25%" />
 </p>
