@@ -19,7 +19,7 @@
     <img src="https://vignette.wikia.nocookie.net/sonic-the-hedgehog/images/3/38/Sonic.gif/revision/latest/top-crop/width/220/height/220?cb=20121229005050&path-prefix=pt-br" alt="sonic" width="100px" height="100px" padding="15px"> 
 </p>
 
-<h3 align="center">Estudante de Desenvolvimento de sistemas, amante do back-end e do desenvolvimento de jogos.</h3>
+<h4 align="center">Sou um entusiasta do desenvolvimento backend e membro ativo da comunidade linux, não tenho o domínio do conhecimento mas estou sempre compartilhando o meu aprendizado, também estou sempre com problemas no meu OS, o que me torna mais ativo ainda. Gosto de ser desafiado, seja em jogos ou ações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade.</h4>
 
 <br>
 <!-- Tecnologias em estudo !-->
@@ -64,5 +64,6 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=tokyonight&show_icons=true" alt="causticroot" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact" alt="causticroot" width="400" /></p>
+
 
