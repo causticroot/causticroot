@@ -21,18 +21,40 @@
 </p>
 <h3 align="center">Estudante de Desenvolvimento de sistemas, amante do back-end e do desenvolvimento de jogos.</h3>
 
-<!-- Tecnologias !-->
-<h2 align="center">Conhecimentos: </h2>
+<!-- Tecnologias em estudo !-->
+<h2 align="center">📚 Estudando 📚</h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>   
+</p>
+<hr>
+<!-- Tecnologias em estudo !-->
+<h2 align="center">🥅 Interesses 🥅/h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>   
+</p>
+<hr>
+<!-- Tecnologias com conhecimentos !-->
+<h2 align="center">🤓 Conhecimentos 🤓</h2>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="ps" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="git" width="40" height="40"/>     
+</p>
+<hr>
+<!-- Bancos de dados !-->    
+<h2 align="center">🗃️ DB'S 🗃️</h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>     
 </p>
 
 
