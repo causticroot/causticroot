@@ -80,13 +80,13 @@ Quem sou eu ?
         </td>
     </tr>
 </table>
-<p align="center" style="margin: 25px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="80%" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="100%" />
 </p>
-<br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="100%"/>
 </p>
+<br>
 <p align="center">
     <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/925/966/8d2.gif" width="100%">
 </p>
