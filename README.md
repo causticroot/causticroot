@@ -24,9 +24,7 @@ Olá, eu sou Matheus, futuro desenvolvedor.
     <img src="https://64.media.tumblr.com/b588ef01d7075388169b64be86637b07/tumblr_mhtwfdBYer1s1kaw2o1_500.gifv" alt="ditto" width="100px" height="100px" padding="15px"> 
     <img src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="snorlax" width="100px" height="100px" padding="15px"> 
 </p>
-<p align="center" style="margin: 25px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="80%"/>
-</p>
+
 <br>
 <h2 align="center" style="font-weight: bold; margin: 0 25% 0 25%">
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
@@ -36,10 +34,6 @@ Quem sou eu ?
 <h3 align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
     Sou entusiasta do desenvolvimento backend e membro ativo da comunidade linux, apaixonado por pokemon, mmorpgs, animes e magic: the gathering. Sou suavão, tenho compaixão com a natureza mas perco a paciência com menos de 4gb de  memória ram (F!). Manjaro + i3 é a coisa mais linda do mundo, uso windows por necessidade, totalmente aberto a qualquer OS. Adoro ser desafiado em jogos ou em situações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade. Fã do ser humano e da tecnologia!
 </h3>
-<br>
-<p align="center">
-    <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/925/966/8d2.gif" width="100%" height="400px">
-</p>
 <br>
 <table  style="border: 5px dashed #abd200; color: #abd200; background-color: rgb(10, 15, 11);" align="center">
     <tr>
@@ -86,7 +80,14 @@ Quem sou eu ?
         </td>
     </tr>
 </table>
-
 <p align="center" style="margin: 25px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="80%" />
 </p>
+<br>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="100%"/>
+</p>
+<p align="center">
+    <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/925/966/8d2.gif" width="100%">
+</p>
+
