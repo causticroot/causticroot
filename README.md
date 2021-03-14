@@ -1,9 +1,4 @@
-<style>
-    .shadowed 
-    {
-        background-color: #e6e69e6e;
-    }
-</style>
+
 <!-- Badgers !-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> </p>
 
