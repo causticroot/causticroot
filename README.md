@@ -90,7 +90,7 @@ Quem sou eu ?
     <tr style="border: 5px dashed #abd200;">
         <td style="border: 5px dashed #abd200;" class="shadowed">
             <p align="center">
-                <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=4&theme=merko" alt="causticroot" width="100%"/>
+                <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=8&theme=merko" alt="causticroot" width="100%"/>
             </p>
         </td>
         <td style="border: 5px dashed #abd200;" class="shadowed">
