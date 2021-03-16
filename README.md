@@ -80,10 +80,29 @@ Quem sou eu ?
         </td>
     </tr>
 </table>
-<p align="center" style="display: inline;">
-    <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=4&theme=merko" alt="causticroot" width="45%"/>
-    <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="45%"/>
-</p>
+
+
+<table  style="border: 5px dashed #abd200; color: #abd200; background-color: rgb(10, 15, 11);" align="center">
+    <tr>
+        <th style="text-align: center; background-color: #ffffffff; color: black" colspan="4">Meu progresso atual</th> 
+    </tr>
+    <tr style="border: 5px dashed #abd200; font-size: 20px;">
+        <th style="text-align: center; border: 5px dashed #abd200;">Linguagens mais utilizadas 🔥</th>
+        <th style="text-align: center; border: 5px dashed #abd200;">Github stats 🌟</th>
+    </tr>
+    <tr style="border: 5px dashed #abd200;">
+        <td style="border: 5px dashed #abd200;" class="shadowed">
+            <p align="center">
+                <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causticroot&layout=compact&langs_count=4&theme=merko" alt="causticroot" width="45%"/>
+            </p>
+        </td>
+        <td style="border: 5px dashed #abd200;" class="shadowed">
+            <p align="center">
+                <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=causticroot&theme=merko" alt="causticroot" width="45%"/>
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 
