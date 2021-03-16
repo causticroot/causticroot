@@ -1,13 +1,12 @@
 
 <!-- Badgers !-->
 <p align="left">
-    <a href="https://twitter.com/syrgoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="syrgoth" height="25" width="25" /></a>
+    <a href="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.luis.developer@gmail.com" target="blank"></a>
     <a href="http://www.linkedin.com/in/causticroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="causticroot" height="25" width="25" /></a>
-    <a href="https://soundcloud.com/macaulayraro" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png" alt="causticroot" height="25" width="25" /></a>
     <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> 
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.luis.developer@gmail.com)](mailto:matheus.luis.developer@gmail.com/)
+
 
 <!-- Header !-->
 <h1 align="center">
