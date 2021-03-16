@@ -1,14 +1,13 @@
 
 <!-- Badgers !-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> </p>
+<p align="left">
+    <a href="https://twitter.com/syrgoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="syrgoth" height="25" width="25" /></a>
+    <a href="http://www.linkedin.com/in/causticroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="causticroot" height="25" width="25" /></a>
+    <a href="https://soundcloud.com/macaulayraro" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png" alt="causticroot" height="25" width="25" /></a>
+    <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> 
+</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.luis.developer@gmail.com)](mailto:matheus.luis.developer@gmail.com/)
-
-<p align="center">
-<a href="https://twitter.com/syrgoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="syrgoth" height="40" width="40" /></a>
-<a href="http://www.linkedin.com/in/causticroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="causticroot" height="40" width="40" /></a>
-<a href="https://soundcloud.com/macaulayraro" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png" alt="causticroot" height="40" width="40" /></a>
-</p>
 
 <!-- Header !-->
 <h1 align="center">
@@ -17,20 +16,12 @@ Olá, eu sou Matheus, futuro desenvolvedor.
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
 </h1>
 
-<p align="center">
-    <img src="https://64.media.tumblr.com/7b1003c806a9bbb724ea6066c2abaa54/tumblr_ml5pj2vcTR1s5h198o1_500.gif" alt="poliwhirl" width="100px" height="100px" padding="15px">
-    <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" alt="clefairy" width="100px" height="100px" padding="15px">
-    <img src="https://i.pinimg.com/originals/d7/ff/29/d7ff29ecf80878b2151d139f6af66049.gif" alt="flareon" width="100px" height="100px" padding="15px">
-    <img src="https://64.media.tumblr.com/b588ef01d7075388169b64be86637b07/tumblr_mhtwfdBYer1s1kaw2o1_500.gifv" alt="ditto" width="100px" height="100px" padding="15px"> 
-    <img src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="snorlax" width="100px" height="100px" padding="15px"> 
-</p>
-
 <br>
-<h2 align="center" style="font-weight: bold; margin: 0 25% 0 25%">
+<h3 align="center" style="font-weight: bold; margin: 0 25% 0 25%">
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
 Quem sou eu ?
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
-</h2>
+</h3>
 <h3 align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
     Sou entusiasta do desenvolvimento backend e membro ativo da comunidade linux, apaixonado por pokemon, mmorpgs, animes e magic: the gathering. Sou suavão, tenho compaixão com a natureza mas perco a paciência com menos de 4gb de  memória ram (F!). Manjaro + i3 é a coisa mais linda do mundo, uso windows por necessidade, totalmente aberto a qualquer OS. Adoro ser desafiado em jogos ou em situações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade. Fã do ser humano e da tecnologia!
 </h3>
@@ -81,7 +72,6 @@ Quem sou eu ?
     </tr>
 </table>
 
-
 <table  style="border: 5px dashed #abd200; color: #abd200; background-color: rgb(10, 15, 11);" align="center">
     <tr style="border: 5px dashed #abd200; font-size: 20px;">
         <th style="text-align: center; border: 5px dashed #abd200;">Linguagens mais utilizadas 🔥</th>
@@ -101,5 +91,11 @@ Quem sou eu ?
     </tr>
 </table>
 
-
+<p align="center">
+    <img src="https://64.media.tumblr.com/7b1003c806a9bbb724ea6066c2abaa54/tumblr_ml5pj2vcTR1s5h198o1_500.gif" alt="poliwhirl" width="100px" height="100px" padding="15px">
+    <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" alt="clefairy" width="100px" height="100px" padding="15px">
+    <img src="https://i.pinimg.com/originals/d7/ff/29/d7ff29ecf80878b2151d139f6af66049.gif" alt="flareon" width="100px" height="100px" padding="15px">
+    <img src="https://64.media.tumblr.com/b588ef01d7075388169b64be86637b07/tumblr_mhtwfdBYer1s1kaw2o1_500.gifv" alt="ditto" width="100px" height="100px" padding="15px"> 
+    <img src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="snorlax" width="100px" height="100px" padding="15px"> 
+</p>
 
