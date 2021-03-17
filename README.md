@@ -1,8 +1,6 @@
 
 <!-- Badgers !-->
 <p align="left">
-    <a href="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.luis.developer@gmail.com" target="blank"></a>
-    <a href="http://www.linkedin.com/in/causticroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="causticroot" height="25" width="25" /></a>
     <img src="https://komarev.com/ghpvc/?username=causticroot&style=plastic&label=Stalker+visits" alt="causticroot" /> 
 </p>
 
