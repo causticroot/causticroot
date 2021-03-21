@@ -13,12 +13,6 @@ Olá, eu sou Matheus, futuro desenvolvedor.
 <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
 </h1>
 
-<br>
-<h3 align="center" style="font-weight: bold; margin: 0 25% 0 25%">
-<img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
-Quem sou eu ?
-<img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="30px" height="30px">
-</h3>
 <h3 align="center" style="font-weight: bold; margin: 0 20% 0 20%; font-size: 20px">
     Sou entusiasta do desenvolvimento backend e membro ativo da comunidade linux, apaixonado por pokemon, mmorpgs, animes e magic: the gathering. Sou suavão, tenho compaixão com a natureza mas perco a paciência com menos de 4gb de  memória ram (F!). Manjaro + i3 é a coisa mais linda do mundo, uso windows por necessidade, totalmente aberto a qualquer OS. Adoro ser desafiado em jogos ou em situações reais, a emoção de uma entrega difícil é o verdadeiro gás da minha força de vontade. Fã do ser humano e da tecnologia!
 </h3>
